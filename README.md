@@ -1,1 +1,1 @@
-# Prototype Quizzer with GET request only. It retrieves a list of objects of the format {id,word,meaning}. For a given word, a user's answer is compared to the meaning value of the word. Increment score on a correct answer.
+# Prototype Quizzer. It retrieves a list of objects of the format {id,word,meaning}. For a given word, a user's answer is compared to the meaning value of the word. Increment score on a correct answer.
